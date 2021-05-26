@@ -2,8 +2,8 @@
 
 ### Projeto Integrado | Universidade Nove de Julho
 
-Instalação
-clone o repositório git clone git@github.com:RenanRB/curso-angular.git
+### Instalação
+clone o repositório git clone **https://github.com/cleberSan/Catalogos_De_Filmes/edit/main/README.md**
 Entre no projeto e instale as dependencias npm install
 Ambiente Local
 Execute ng serve para que o projeto suba localmente. Acesse a url http://localhost:4200/.
