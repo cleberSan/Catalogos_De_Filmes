@@ -3,7 +3,7 @@
 ### Projeto Integrado | Universidade Nove de Julho
 
 ### Instalação
-1. clone o repositório *git clone git@github.com:cleberSan/Catalogos_De_Filmes.git*
+1. clone o repositório ***git clone git@github.com:cleberSan/Catalogos_De_Filmes.git***
 2. Entre no projeto e instale as dependencias **npm install**
 ---
 
