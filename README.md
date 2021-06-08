@@ -23,6 +23,9 @@ Execute **ng build** para gerar o compilado do projeto. O projeto vai ser criado
 
 
 Site publicado : http://evertonlyra.com/
+
 Cloud: AWS 
+
 Json Server: Hiroku.com
+
 Hospedagem: godaddy
